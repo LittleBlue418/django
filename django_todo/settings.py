@@ -29,7 +29,7 @@ SECRET_KEY = '1iy^9&7@85s&+w^u3ew77t(fzf$@@r*p!a_2sn#3+^thfwg%s1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-task-app.herokuapp.com']
 
 
 # Application definition
